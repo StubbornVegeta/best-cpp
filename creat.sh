@@ -25,4 +25,18 @@ mkdir destructors
 mkdir inheritance
 mkdir virtual_funciton
 mkdir interfaces_pure_virtual_funciton
-
+mkdir visibility
+mkdir arrays
+mkdir how_strings_work_in_c++
+mkdir string_literals
+mkdir const
+mkdir mutale
+mkdir member_initializer_lists
+mkdir ternary_operators
+mkdir how_to_create_or_instantiate_objects
+mkdir new
+mkdir implicit_conversion_and_the_explicit_keyword
+mkdir operators_and_operator_overloading
+mkdir this
+mkdir object_lifetime
+mkdir smart_pointers
